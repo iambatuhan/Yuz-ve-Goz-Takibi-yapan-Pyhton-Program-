@@ -1,0 +1,1 @@
+haarcascade_frontalface_default.xml ve haarcascade_eye.xml kütüphanelerini mutlaka projenin içerisine atmanız lazım yoksa çalışmaz.
